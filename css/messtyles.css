@@ -1,0 +1,64 @@
+p {
+  background-image: url("./img/bah.jpg");
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+td {
+  border: solid 4px purple;
+}
+
+
+caption {
+  border: solid 2px greenyellow;
+}
+
+
+.important {
+  color: orange;
+  font-style: italic;
+  font-size: 30px;
+  background-color: lightyellow;
+}
+
+
+.sample {
+  background-color: whitesmoke;
+  font-size: 18px;
+}
+
+
+.type2 {
+  background-color: orchid;
+  font-size: 23px;
+  font-style: italic;
+}
+
+
+.type3 {
+  background-color: orangered;
+  font-size: 18px;
+  text-align: justify;
+}
+
+
+.type4 {
+  background-color:turquoise;
+  font-size: 23px;
+  font-style: italic;
+}
+
+
+.type5 {
+  background-color:limegreen;
+  font-size: 18px;
+  text-align: justify;
+}
+
+
+.import {
+  color: orange;
+  font-style: italic;
+  font-size: 16px;
+  background-color: lightyellow;
+}
