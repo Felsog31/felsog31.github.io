@@ -2,3 +2,7 @@ body {
     background-color: lime;
     font-family:Arial, Helvetica, sans-serif;
 }
+
+td {
+    border: 2pt yellow solid;
+}
