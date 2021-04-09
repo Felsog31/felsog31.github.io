@@ -3,8 +3,15 @@ body {
     font-family:Arial, Helvetica, sans-serif;
 }
 
+first {
+    font-style: italic;
+    border: gray;
+    background-color: 3pt cornflowerblue;
+    font-size: 18pt;
+}
+
 td {
-    border: 4.5pt cornflowerblue;
+    border: 4pt green;
     background-color: purple;
     font-size: 14pt;
-}
+    }
